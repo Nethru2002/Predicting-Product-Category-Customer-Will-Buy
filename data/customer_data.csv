@@ -1,0 +1,11 @@
+Age,Gender,Purchase Amount,Review Rating,Purchase Count,Subscription Status,Discount Applied,Product Category
+25,Male,120.5,4,5,Yes,Yes,Electronics
+34,Female,89.99,3,3,No,No,Fashion
+45,Female,250.0,5,10,Yes,Yes,Home Appliances
+23,Male,49.99,2,2,No,Yes,Fashion
+38,Female,180.75,5,8,Yes,No,Electronics
+29,Male,59.0,4,4,No,Yes,Books
+50,Female,300.0,5,12,Yes,Yes,Home Appliances
+31,Male,78.99,3,6,No,No,Books
+27,Female,199.99,5,7,Yes,Yes,Electronics
+41,Male,130.0,4,9,Yes,No,Home Appliances
